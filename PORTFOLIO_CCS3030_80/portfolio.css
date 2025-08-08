@@ -1,0 +1,53 @@
+.h1{
+    text-align: center;
+}
+.blank-pfp{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: auto;
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .name{
+    text-align: center;
+    font-size: x-large;
+  }
+
+  .jobex{
+    font-size: x-large;
+  }
+
+  .skills{
+    text-align: center;
+  }
+  .After{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    align-items: center;
+  }
+  .Capcut{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    align-items: center;
+  }
+.Projects{
+    
+    text-align: center;
+   
+}
